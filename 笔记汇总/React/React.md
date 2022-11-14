@@ -1,0 +1,377 @@
+# 一、React
+
+## 1. React 开发依赖
+
+![image-20221109161000745](C:\Users\avagranta\AppData\Roaming\Typora\typora-user-images\image-20221109161000745.png)
+
+
+
+### 1.1 引入 React
+
+![image-20221109161315111](C:\Users\avagranta\AppData\Roaming\Typora\typora-user-images\image-20221109161315111.png)
+
+
+
+### 1.2 网页中使用 React
+
+![image-20221109162243380](C:\Users\avagranta\AppData\Roaming\Typora\typora-user-images\image-20221109162243380.png)
+
+
+
+### 1.3 组件化使用
+
+![image-20221109170317276](C:\Users\avagranta\AppData\Roaming\Typora\typora-user-images\image-20221109170317276.png)
+
+
+
+#### ① 数据依赖
+
+![image-20221114154808468](image/image-20221114154808468.png)
+
+
+
+#### ② 事件绑定
+
+![image-20221114154854432](image/image-20221114154854432.png)
+
+
+
+#### ③ 示例
+
+![image-20221114155238919](image/image-20221114155238919.png)![image-20221114155244736](image/image-20221114155244736.png)
+
+
+
+### 1.4 安装脚手架
+
+![image-20221114161901271](image/image-20221114161901271.png)
+
+
+
+### 1.5 创建 React项目
+
+![image-20221114161918013](image/image-20221114161918013.png)
+
+
+
+### 1.6 目录结构分析
+
+![image-20221114162116294](image/image-20221114162116294.png)
+
+
+
+### 1.7 起步
+
+![image-20221114162427281](image/image-20221114162427281.png)
+
+
+
+
+
+
+
+## 2. JSX 核心语法
+
+### 2.1 ES6 的 class
+
+![image-20221114160830877](image/image-20221114160830877.png)
+
+
+
+### 2.2 认识 JSX
+
+![image-20221114160904356](image/image-20221114160904356.png)
+
+![image-20221114161026522](image/image-20221114161026522.png)
+
+
+
+### 2.3 JSX 的使用
+
+![image-20221114161057361](image/image-20221114161057361.png)
+
+![image-20221114161118375](image/image-20221114161118375.png)
+
+
+
+### 2.4 React 事件绑定
+
+![image-20221114161137863](image/image-20221114161137863.png)
+
+![image-20221114161210650](image/image-20221114161210650.png)
+
+![image-20221114161244043](image/image-20221114161244043.png)
+
+
+
+### 2.5 React 条件渲染
+
+![image-20221114161319033](image/image-20221114161319033.png)
+
+
+
+### 2.6 React 列表渲染
+
+![image-20221114161415926](image/image-20221114161415926.png)
+
+
+
+## 3. React 核心概念
+
+![image-20221114162657538](image/image-20221114162657538.png)
+
+
+
+### 3.1 类组件
+
+![image-20221114162736310](image/image-20221114162736310.png)
+
+![image-20221114162921826](image/image-20221114162921826.png)
+
+
+
+### 3.2 函数组件
+
+![image-20221114162954677](image/image-20221114162954677.png)
+
+
+
+### 3.3 生命周期
+
+![image-20221114163358320](image/image-20221114163358320.png)
+
+![image-20221114163444217](image/image-20221114163444217.png)
+
+![image-20221114163543574](image/image-20221114163543574.png)
+
+![image-20221114163635961](image/image-20221114163635961.png)
+
+![image-20221114163717804](image/image-20221114163717804.png)
+
+
+
+### 3.4 组件间通信
+
+![image-20221114163914196](image/image-20221114163914196.png)
+
+#### ① 父传子
+
+![image-20221114163929368](image/image-20221114163929368.png)
+
+![image-20221114164457955](image/image-20221114164457955.png)
+
+
+
+#### ② 子传父
+
+![image-20221114164534912](image/image-20221114164534912.png)
+
+![image-20221114165226975](image/image-20221114165226975.png)
+
+
+
+#### ③ Context 应用场景 （非父子）
+
+![image-20221114165312077](image/image-20221114165312077.png)
+
+![image-20221114165418268](image/image-20221114165418268.png)
+
+![image-20221114171308758](image/image-20221114171308758.png)
+
+
+
+### 3.5 setState
+
+![image-20221114214822927](image/image-20221114214822927.png)
+
+![image-20221114214831953](image/image-20221114214831953.png)
+
+![image-20221114215133680](image/image-20221114215133680.png)
+
+![image-20221114215446923](image/image-20221114215446923.png)
+
+![image-20221114215714364](image/image-20221114215714364.png)
+
+
+
+### 3.6 ref
+
+![image-20221114224755910](image/image-20221114224755910.png)
+
+![image-20221114224806617](image/image-20221114224806617.png)
+
+![image-20221114230127471](image/image-20221114230127471.png)
+
+### 3.7 受控组件
+
+![image-20221114224949606](image/image-20221114224949606.png)
+
+![image-20221114225135520](image/image-20221114225135520.png)
+
+![image-20221114225322016](image/image-20221114225322016.png)
+
+![image-20221114225329064](image/image-20221114225329064.png)
+
+
+
+### 2.8 高阶组件
+
+![image-20221114225528294](image/image-20221114225528294.png)
+
+![image-20221114225808450](image/image-20221114225808450.png)
+
+![image-20221114225939509](image/image-20221114225939509.png)
+
+![image-20221114230050125](image/image-20221114230050125.png)
+
+
+
+### 2.9 Portals
+
+![image-20221114230302198](image/image-20221114230302198.png)
+
+![image-20221114230345687](image/image-20221114230345687.png)
+
+
+
+### 2.10 fragment
+
+![image-20221114230411273](image/image-20221114230411273.png)
+
+
+
+### 2.11 StrictMode
+
+![image-20221114230434010](image/image-20221114230434010.png)
+
+![image-20221114230451528](image/image-20221114230451528.png)
+
+
+
+
+
+
+
+
+
+## 4. React 的 CSS
+
+#### 4.1 内联样式
+
+![image-20221114231149278](image/image-20221114231149278.png)
+
+### 4.2 普通的 CSS
+
+![image-20221114231155183](image/image-20221114231155183.png)
+
+
+
+### 4.3 CSS Modules
+
+![image-20221114231204689](image/image-20221114231204689.png)
+
+
+
+### 4.4 CSS in JS
+
+![image-20221114231239762](image/image-20221114231239762.png)
+
+
+
+## 5. hooks
+
+### 5.1 useState
+
+![image-20221115002030185](image/image-20221115002030185.png)
+
+![image-20221115002139527](image/image-20221115002139527.png)
+
+
+
+### 5.2 Effect
+
+![image-20221115002230390](image/image-20221115002230390.png)
+
+![image-20221115002340485](image/image-20221115002340485.png)
+
+![image-20221115002401829](image/image-20221115002401829.png)
+
+![image-20221115002418060](image/image-20221115002418060.png)
+
+
+
+### 5.3 useContext
+
+![image-20221115002442454](image/image-20221115002442454.png)
+
+
+
+### 5.4 useReducer
+
+![image-20221115002507156](image/image-20221115002507156.png)
+
+
+
+### 5.5 useCallback
+
+![image-20221115002523678](image/image-20221115002523678.png)
+
+
+
+### 5.6 useMemo
+
+![image-20221115002537317](image/image-20221115002537317.png)
+
+
+
+### 5.7 useRef
+
+![image-20221115002549146](image/image-20221115002549146.png)
+
+# 二、Redux
+
+## 1. 纯函数
+
+![image-20221114233724893](image/image-20221114233724893.png)
+
+![image-20221114233758498](image/image-20221114233758498.png)
+
+![image-20221114233811129](image/image-20221114233811129.png)
+
+
+
+## 2. Redux 核心理念
+
+![image-20221114234033754](image/image-20221114234033754.png)
+
+### 2.1 Store
+
+![image-20221114234047713](image/image-20221114234047713.png)
+
+
+
+### 2.2 action
+
+![image-20221114234057629](image/image-20221114234057629.png)
+
+
+
+### 2.3 reducer
+
+![image-20221114234340484](image/image-20221114234340484.png)
+
+
+
+## 3. Redux 三大原则
+
+![image-20221114234445545](image/image-20221114234445545.png)
+
+
+
+## 4. Redux 使用过程
+
+![image-20221114234647197](image/image-20221114234647197.png)
+
+
+
+### 
